@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Montagnes au lever du soleil",
+    "description": "Une vue paisible sur les Alpes.",
+    "imageUrl": "https://raw.githubusercontent.com/Valentin-Auplat/swood-content/main/images/mountains.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Chiot curieux 🐶",
+    "description": "Un chiot qui découvre le monde.",
+    "imageUrl": "https://raw.githubusercontent.com/Valentin-Auplat/swood-content/main/images/puppy.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Forêt brumeuse",
+    "description": "Une atmosphère mystique au petit matin.",
+    "imageUrl": "https://raw.githubusercontent.com/Valentiçn-Auplat/swood-content/main/images/forest.jpg"
+  }
+]
